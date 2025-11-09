@@ -1,14 +1,14 @@
-##🔤 Identification of English Characters
+# 🔤 Identification of English Characters
 
 A Python-based character recognition system that identifies and classifies English alphabets using various computational techniques.
 
-#📖 Project Overview
+## 📖 Project Overview
 
 Identification of English Characters is a computational linguistics project focused on recognizing and processing English alphabets through programming. This tool can be used for educational purposes, data processing, OCR pre-processing, and language learning applications.
 
-#🎯 Features
+## 🎯 Features
 
-identify_char.py
+### `identify_char.py`
 
 · Character Classification: Identifies uppercase and lowercase English letters
 · Type Detection: Distinguishes between vowels and consonants
