@@ -1,3 +1,4 @@
+print("Welcome to Character Identifier 🔤")
 
 ch = input("Enter a character: ").strip()
 
@@ -10,3 +11,7 @@ else:
         print(f"'{ch}' is a vowel.")
     else:
         print(f"'{ch}' is not a vowel.")
+
+print("≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈")
+
+print("End of Program..")
